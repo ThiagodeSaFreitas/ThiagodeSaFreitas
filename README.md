@@ -5,7 +5,8 @@
 📚 Análise e Desenvolvimento de Sistemas - Estácio <br>
 📚 Formação em Tecnologia - DNC <br>
 📚 Téc. em Desenvolvimento de Sistemas - SENAC <br>
-📚 Programador Back-End - SENAI
+📚 Programador Back-End - SENAI <br>
+📚 Curso de JavaScript completo do inicinate ao mestre - Udemy
 
 
 <div align="center">
