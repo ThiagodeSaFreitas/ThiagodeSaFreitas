@@ -6,7 +6,7 @@
 📚 Formação em Tecnologia - DNC <br>
 📚 Téc. em Desenvolvimento de Sistemas - SENAC <br>
 📚 Programador Back-End - SENAI <br>
-📚 Curso de JavaScript completo do inicinate ao mestre - Udemy
+📚 Curso de JavaScript completo do iniciante ao mestre - Udemy
 
 
 <div align="center">
